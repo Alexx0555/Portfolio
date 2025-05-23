@@ -114,6 +114,7 @@ footer {
     background: #3f3e3e;
     color: #fff;
     font-size: 0.9em;
+    padding-bottom: 10px;
 }
 .fa-envelope,.fa-phone,.fa-github,.fa-linkedin{
     font-size: 25px;
